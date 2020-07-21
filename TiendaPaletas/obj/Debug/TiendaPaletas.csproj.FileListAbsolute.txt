@@ -1,0 +1,11 @@
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.Form1.resources
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\bin\Debug\TiendaPaletas.exe.config
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\bin\Debug\TiendaPaletas.exe
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\bin\Debug\TiendaPaletas.pdb
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.exe
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.pdb
+C:\Users\Alejandro\source\repos\TiendaPaletas\TiendaPaletas\obj\Debug\TiendaPaletas.Views.MainWindow.resources
